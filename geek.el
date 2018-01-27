@@ -8,6 +8,8 @@
 
 ;; $Id: geek.el,v 1.2 1995/01/07 21:07:16 friedman Exp $
 
+;; License: public-domain
+
 ;; This software is is guaranteed to do nothing useful, except when it
 ;; does.  You may sell it, burn it, use it, modify it, or give it away, at
 ;; your leisure.  You may even require that other people use it.  You may
